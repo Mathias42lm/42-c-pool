@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "ft_library_main.h": "c"
+    },
+    "makefile.configureOnOpen": true
+}
