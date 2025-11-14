@@ -1,0 +1,1 @@
+def mots(texte, longueur_texte):

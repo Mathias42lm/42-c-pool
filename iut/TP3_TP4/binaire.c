@@ -1,0 +1,4 @@
+void binaire(int n)
+{
+    // ...
+}
